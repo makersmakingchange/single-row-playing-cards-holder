@@ -63,7 +63,7 @@ The Makers Checklist contains a list of tasks to complete to build the device.
 
 ### 2. Print the 3D Printable component
 
-The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+The print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files) folder.
 
 ## Files
 <!---
@@ -98,7 +98,7 @@ Not available.
 BUILD FILES
 This section i
 --->
- - [3D Printing Files](Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
  
  
 ## Attribution
