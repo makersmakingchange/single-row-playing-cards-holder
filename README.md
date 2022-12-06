@@ -133,4 +133,4 @@ We are committed to cultivating a network of volunteer makers who support people
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
 
 ### Contact Us
-For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://forum.makersmakingchange.com) or contact info@makersmakingchange.com
+For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://makersmakingchange.com/forum/) or contact info@makersmakingchange.com
