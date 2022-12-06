@@ -1,5 +1,5 @@
 <!--- 
-Open Source Assistive Technology: GitHub Readme Template
+Open Source Assistive Technology: GitHub Readme Template. 
  --->
 
 <!---
