@@ -79,9 +79,9 @@ DOCUMENTATION
 | Design Rationale     | 1.0 | [Single_Row_Playing_Cards_Holder_Design_Rationale](/Documentation/Single_Row_Playing_Cards_Holder_Design_Rationale.pdf) |
 | Maker Checklist      | 1.0 | [Single_Row_Playing_Cards_Holder_Checklist](/Documentation/Single_Row_Playing_Cards_Holder_Maker_Checklist.pdf) |
 | Bill of Materials    | 1.0 | [Single_Row_Playing_Cards_Holder_BOM](/Documentation/Single_Row_Playing_Cards_Holder_BOM_v0.1.xlsx) |
-| 3D Printing Guide    | 1.0 | [Single_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Single_Row_Playing_Cards_3D_Printing_Guide.pdf)     |
+| 3D Printing Guide    | 1.0 | [Single_Row_Playing_Cards_3D_Printing_Guide](/Documentation/Single_Row_Playing_Cards_Holder_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | n/a | No Assembly Required |
-| User Guide          | 1.0 | [Single_Row_Playing_Cards_Holder_Quick_Guide](/Documentation/Single_Row_Playing_Cards_Holder_User_Guide.pdf)           |
+| User Guide          | 1.0 | [Single_Row_Playing_Cards_Holder_User_Guide](/Documentation/Single_Row_Playing_Cards_Holder_User_Guide.pdf)           |
 | Changelog            | 1.0 | [Single_Row_Playing_Cards_Holder_Changelog](/Documentation/Single_Row_Playing_Cards_Holder_Changelog.pdf)               |
 
 ### Design Files
