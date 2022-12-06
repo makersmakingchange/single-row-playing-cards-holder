@@ -25,8 +25,7 @@ The Single Row Playing Cards Holder is an assistive device for holding playing c
 This design was created by [Shane Kartz](https://www.thingiverse.com/skartz/designs) and posted on [Printables.com](https://www.thingiverse.com/thing:2745725).
 
 <!--- 
-PHOTO
-
+PHOTO (to do)
  --->
 ![Image Description](Photos/Device_Photo.jpg)
 
@@ -53,7 +52,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 <!--- 
-Include an overall idea of what major steps are required to build the device.
+Include an overall idea of what major steps are required to build the device. 
  --->
 
 ### 1. Read the Makers Checklist
