@@ -27,7 +27,7 @@ This design was created by [Shane Kartz](https://www.thingiverse.com/skartz/desi
 <!--- 
 PHOTO (to do)
  --->
-![Image Description](Photos/Device_Photo.jpg)
+<img src="Photos/Single_Row_Playing_Cards_Holder_In_Use.png" width="500" alt="A green 3D printed single row playing cards holder displaying various cards.">
 
 
 ## More info at
