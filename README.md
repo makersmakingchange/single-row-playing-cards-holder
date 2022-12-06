@@ -27,7 +27,7 @@ This design was created by [Shane Kartz](https://www.thingiverse.com/skartz/desi
 <!--- 
 PHOTO (to do)
  --->
-![Image Description](Photos/Device_Photo.jpg)
+<img src="Photos/Single_Row_Playing_Cards_Holder_In_Use.jpg" width="500" alt="Picture of a green 3d printed toothpaste squeezer inserted midway along a tube of toothpaste.">
 
 
 ## More info at
