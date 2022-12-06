@@ -24,13 +24,8 @@ The Single Row Playing Cards Holder is an assistive device for holding playing c
 
 This design was created by [Shane Kartz](https://www.thingiverse.com/skartz/designs) and posted on [Printables.com](https://www.thingiverse.com/thing:2745725).
 
-<!--- 
-![Image Description](Photos/Single_Row_Playing_Cards_Holder_In_Use.jpg)
-<img src="Photos/Single_Row_Playing_Cards_Holder_In_Use.jpg" width="500" alt="A green 3D printed single row playing cards holder displaying various cards.">
- --->
 
-
-<img src="Photos/Single_Row_Playing_Cards_Holder_In_Use.jpg" width="500" alt="A green 3D printed single row playing cards holder displaying various cards.">
+<img src="Photos/Single_Row_Playing_Cards_Holder_In _Use.jpg" width="500" alt="A green 3D printed single row playing cards holder displaying various cards.">
 
 ## More info at
  - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/single-row-playing-cards-holder/) 
