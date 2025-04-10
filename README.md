@@ -28,8 +28,7 @@ This design was created by [Shane Kartz](https://www.thingiverse.com/skartz/desi
 <img src="Photos/Single_Row_Playing_Cards_Holder_In _Use.jpg" width="500" alt="A green 3D printed single row playing cards holder displaying various cards.">
 
 ## More info at
- - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/single-row-playing-cards-holder/) 
- - [Makers Making Change Project Page](https://makersmakingchange.com/project/single-row-playing-cards-holder/)
+  - [Makers Making Change Project Page](https://makersmakingchange.com/project/single-row-playing-cards-holder/)
  
  
 ## How to Obtain a Single Row Playing Cards Holder
@@ -116,9 +115,9 @@ The design of the [Single Row Playing Cards Holder](https://www.thingiverse.com/
 Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Single Row Playing Cards Holder are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 
+----
 
-
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -134,3 +133,4 @@ We are committed to cultivating a network of volunteer makers who support people
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to visit [MMC Forum](https://makersmakingchange.com/forum/) or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
